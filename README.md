@@ -10,4 +10,4 @@ Selamat datang ke repository rasmi bagi kelas **DKA3223 (Kumpulan K12026)**. Rua
 4. **Hantar Jawapan:** Setelah siap, klik `File` -> `Save a copy in GitHub`. Pastikan anda memilih *Repository* ini dan **Branch nama anda sendiri**!
 
 ---
-*Disediakan oleh: Puan Bahiyah Othman*
+*Disediakan oleh: Puan Nazatul Bahiyah Othman*
